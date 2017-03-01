@@ -1,0 +1,22 @@
+.notification-container {
+  .notifcations {
+    li {
+      .notification {
+        $.connect {}
+        $.disconnect{}
+        $.info{}
+      }
+    }
+  }
+
+}
+
+.notification-container .notifications {
+
+}
+
+.notifications li {}
+
+.notifications li .notifcation {}
+
+.notifications li .notifcation.connect {}
